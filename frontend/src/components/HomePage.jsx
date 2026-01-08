@@ -115,7 +115,7 @@ const HomePage = () => {
                                 <div className="service-icon">
                                     <service.icon size={32} />
                                 </div>
-                                <span className="price-tag">Starts ₹299</span>
+                                <span className="price-tag">Starts Rs1299</span>
                             </div>
                             <h3 className="service-name">{service.name}</h3>
                             <ul className="service-features">
